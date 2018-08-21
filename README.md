@@ -25,5 +25,7 @@ You can set environment variable in a `.env` file, look at the `.env-sample` for
 
 ## Sources
 
+- https://github.com/toddmotto/angularjs-styleguide/blob/master/i18n/fr-fr.md
 - https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
+- https://github.com/toddmotto/angular-1-5-components-app
 - https://github.com/simpulton/eggly-es6
